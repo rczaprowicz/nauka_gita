@@ -13,4 +13,6 @@
     curl google.com
     ```
 
-2. 
+2.
+wprowadzona zmiana
+druga zmiana
