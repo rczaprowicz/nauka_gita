@@ -7,10 +7,11 @@
   git status
     python...
 
-## DEPLOY
+## DEPLOYMENT
 
     Komponent jest instalowany na instancji AWS
-    
+
+Wprowadzona zmiana
 
 ## Najczęściej wykorzystywane komendy
 1. Sprawdź WEB UI
